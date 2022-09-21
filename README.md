@@ -11,10 +11,10 @@ Tasks that are involved in this project:
 	7. Write a descriptive and easy to understand README in business English for every project submitted.
 	8. Demonstrate an ability to submit a project for code review.
 
-Built With:
+# Built With:
 	HTML, CSS
 
-Getting Started - Requirements:
+# Getting Started - Requirements:
 	Create a new branch according to the GitHub flow rules.
 	Add a .gitignore file.
 	Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
@@ -26,6 +26,6 @@ Getting Started - Requirements:
 	Make sure that the last file is actually ignored by git and is not present in your GitHub repository.
 	Open a pull request.
 
-📝 License
+# 📝 License
 This project is MIT licensed.
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
